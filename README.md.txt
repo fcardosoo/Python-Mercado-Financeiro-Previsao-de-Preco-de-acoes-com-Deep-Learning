@@ -1,3 +1,5 @@
+[![PyPI - Python](https://img.shields.io/pypi/pyversions/iconsdk?logo=pypi)](https://pypi.org/project/iconsdk)
+
 <h1>Como prever o preço das ações no mercado financeiro com Python e Machine Learning usando redes neurais</h1> 
 
 <p><b>Será que é possível ganhar dinheiro na bolsa com inteligência artificial?</b></p>
