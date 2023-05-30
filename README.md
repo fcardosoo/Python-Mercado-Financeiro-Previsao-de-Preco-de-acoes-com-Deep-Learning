@@ -15,9 +15,3 @@ O processo de treinamento envolve alimentar os dados na rede LSTM e dizer a ela 
 Uma vez que a rede tenha sido treinada, podemos usá-la para prever os preços futuros das ações. Para fazer isso, simplesmente alimentamos os dados das etapas de tempo anteriores na rede e pedimos que preveja a próxima etapa de tempo. Por exemplo, se quisermos prever o preço das ações para o 61º dia, alimentaríamos os dados do 60º dia na rede e pediríamos para prever o preço do 61º dia.
 
 Existem muitas maneiras diferentes de abordar o problema da previsão de preços de ações, mas o uso de aprendizado de máquina, especialmente aprendizado profundo, é uma ferramenta poderosa que pode fornecer previsões precisas.
-
-<<<<<<<< HEAD:README.md.txt
-Aqui nesse vídeo vamos utilizar o Python com os pacotes <b>Keras, Pandas, Numpy e Matplotlib</b> para criar o modelo que prevê o preço das ações. 
-========
-Aqui nesse vídeo vamos utilizar o Python com os pacotes **Keras, Pandas, Numpy e Matplotlib** para criar o modelo que prevê o preço das ações. 
->>>>>>>> 2b58cfdbdd49c70c182270c2eb592b4bb6de54f1:README2.md
