@@ -2,11 +2,11 @@
 
 <p><b>Será que é possível ganhar dinheiro na bolsa com inteligência artificial?</b></p>
 
-<p>Nos últimos anos, houve uma explosão no uso de aprendizado de máquina (**machine learning**), especialmente aprendizado profundo (**deep learning**), para prever os preços das ações. Embora existam muitas maneiras diferentes de abordar esse problema, uma abordagem popular é usar uma rede LSTM (**long short-term memory**).
+<p>Nos últimos anos, houve uma explosão no uso de aprendizado de máquina (<b>machine learning</b>), especialmente aprendizado profundo (<b>deep learning</b>), para prever os preços das ações. Embora existam muitas maneiras diferentes de abordar esse problema, uma abordagem popular é usar uma rede LSTM (<b>long short-term memory</b>).
 
-As redes **LSTM** são um tipo de rede neural recorrente (RNN) que são adequadas para dados de **séries temporais**. RNNs são um tipo de rede neural que pode manipular dados sequenciais, como texto ou dados de séries temporais. A principal diferença entre uma RNN e uma rede neural tradicional é que uma RNN pode lembrar informações de entradas anteriores, o que é importante para lidar com dados de séries temporais.
+As redes <b>LSTM</b> são um tipo de rede neural recorrente (RNN) que são adequadas para dados de <b>séries temporais</b>. RNNs são um tipo de rede neural que pode manipular dados sequenciais, como texto ou dados de séries temporais. A principal diferença entre uma RNN e uma rede neural tradicional é que uma RNN pode lembrar informações de entradas anteriores, o que é importante para lidar com dados de séries temporais.
 
-As redes **LSTM** são um tipo especial de RNN que são particularmente adequadas para dados de séries temporais. As redes LSTM têm uma "memória" que pode lembrar informações por longos períodos de tempo. Isso é importante para prever os preços das ações, *porque os preços das ações são dados de séries temporais*.
+As redes <b>LSTM</b> são um tipo especial de RNN que são particularmente adequadas para dados de séries temporais. As redes LSTM têm uma "memória" que pode lembrar informações por longos períodos de tempo. Isso é importante para prever os preços das ações, *porque os preços das ações são dados de séries temporais*.
 
 Para treinar uma rede LSTM para prever os preços das ações, primeiro precisamos coletar dados. Existem muitas fontes de dados que podem ser usadas para essa finalidade, mas uma fonte popular é o Yahoo! Finance. Depois de coletarmos os dados, podemos usá-los para treinar a rede LSTM.
 
@@ -16,4 +16,4 @@ Uma vez que a rede tenha sido treinada, podemos usá-la para prever os preços f
 
 Existem muitas maneiras diferentes de abordar o problema da previsão de preços de ações, mas o uso de aprendizado de máquina, especialmente aprendizado profundo, é uma ferramenta poderosa que pode fornecer previsões precisas.
 
-Aqui nesse vídeo vamos utilizar o Python com os pacotes **Keras, Pandas, Numpy e Matplotlib** para criar o modelo que prevê o preço das ações. 
+Aqui nesse vídeo vamos utilizar o Python com os pacotes <b>Keras, Pandas, Numpy e Matplotlib</b> para criar o modelo que prevê o preço das ações. 
